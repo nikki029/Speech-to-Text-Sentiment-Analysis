@@ -1,0 +1,502 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "c7a0de54-a1b6-49d9-88c6-541c5d4a2aa6",
+        "sha256": "154e291ecfa8be6ab8343560bcc109008fa7853eb5372533e8efdefc9b504c33",
+        "created": "2024-04-16T05:20:47.397Z",
+        "duration": 25.933313,
+        "channels": 1,
+        "models": [
+            "30089e05-99d1-4376-b32e-c263170674af"
+        ],
+        "model_info": {
+            "30089e05-99d1-4376-b32e-c263170674af": {
+                "name": "2-general-nova",
+                "version": "2024-01-09.29447",
+                "arch": "nova-2"
+            }
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Yeah. As as much as, it's worth celebrating, the first, spacewalk, with an all female team, I think many of us are looking forward to it just being normal. And, I think if it signifies anything, it is, to honor the the women who came before us who, were skilled and qualified, and didn't get the the same opportunities that we have today.",
+                        "confidence": 0.99901366,
+                        "words": [
+                            {
+                                "word": "yeah",
+                                "start": 0.08,
+                                "end": 0.32,
+                                "confidence": 0.9979445,
+                                "punctuated_word": "Yeah."
+                            },
+                            {
+                                "word": "as",
+                                "start": 0.32,
+                                "end": 0.79999995,
+                                "confidence": 0.9929825,
+                                "punctuated_word": "As"
+                            },
+                            {
+                                "word": "as",
+                                "start": 0.79999995,
+                                "end": 1.04,
+                                "confidence": 0.96769387,
+                                "punctuated_word": "as"
+                            },
+                            {
+                                "word": "much",
+                                "start": 1.04,
+                                "end": 1.28,
+                                "confidence": 0.9994986,
+                                "punctuated_word": "much"
+                            },
+                            {
+                                "word": "as",
+                                "start": 1.28,
+                                "end": 1.5999999,
+                                "confidence": 0.9929675,
+                                "punctuated_word": "as,"
+                            },
+                            {
+                                "word": "it's",
+                                "start": 2.0,
+                                "end": 2.24,
+                                "confidence": 0.9998112,
+                                "punctuated_word": "it's"
+                            },
+                            {
+                                "word": "worth",
+                                "start": 2.24,
+                                "end": 2.74,
+                                "confidence": 0.9998971,
+                                "punctuated_word": "worth"
+                            },
+                            {
+                                "word": "celebrating",
+                                "start": 2.8,
+                                "end": 3.3,
+                                "confidence": 0.9709097,
+                                "punctuated_word": "celebrating,"
+                            },
+                            {
+                                "word": "the",
+                                "start": 4.4,
+                                "end": 4.64,
+                                "confidence": 0.997755,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "first",
+                                "start": 4.64,
+                                "end": 5.04,
+                                "confidence": 0.8011488,
+                                "punctuated_word": "first,"
+                            },
+                            {
+                                "word": "spacewalk",
+                                "start": 5.2799997,
+                                "end": 5.7799997,
+                                "confidence": 0.94476265,
+                                "punctuated_word": "spacewalk,"
+                            },
+                            {
+                                "word": "with",
+                                "start": 6.3199997,
+                                "end": 6.56,
+                                "confidence": 0.99948704,
+                                "punctuated_word": "with"
+                            },
+                            {
+                                "word": "an",
+                                "start": 6.56,
+                                "end": 6.72,
+                                "confidence": 0.9993043,
+                                "punctuated_word": "an"
+                            },
+                            {
+                                "word": "all",
+                                "start": 6.72,
+                                "end": 6.96,
+                                "confidence": 0.9983334,
+                                "punctuated_word": "all"
+                            },
+                            {
+                                "word": "female",
+                                "start": 6.96,
+                                "end": 7.3599997,
+                                "confidence": 0.99961394,
+                                "punctuated_word": "female"
+                            },
+                            {
+                                "word": "team",
+                                "start": 7.3599997,
+                                "end": 7.8599997,
+                                "confidence": 0.9173577,
+                                "punctuated_word": "team,"
+                            },
+                            {
+                                "word": "i",
+                                "start": 8.395,
+                                "end": 8.555,
+                                "confidence": 0.93631166,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "think",
+                                "start": 8.555,
+                                "end": 8.875,
+                                "confidence": 0.9993333,
+                                "punctuated_word": "think"
+                            },
+                            {
+                                "word": "many",
+                                "start": 8.875,
+                                "end": 9.115001,
+                                "confidence": 0.9843621,
+                                "punctuated_word": "many"
+                            },
+                            {
+                                "word": "of",
+                                "start": 9.115001,
+                                "end": 9.3550005,
+                                "confidence": 0.9996817,
+                                "punctuated_word": "of"
+                            },
+                            {
+                                "word": "us",
+                                "start": 9.3550005,
+                                "end": 9.8550005,
+                                "confidence": 0.99985635,
+                                "punctuated_word": "us"
+                            },
+                            {
+                                "word": "are",
+                                "start": 9.995001,
+                                "end": 10.235001,
+                                "confidence": 0.96796685,
+                                "punctuated_word": "are"
+                            },
+                            {
+                                "word": "looking",
+                                "start": 10.235001,
+                                "end": 10.475,
+                                "confidence": 0.99799013,
+                                "punctuated_word": "looking"
+                            },
+                            {
+                                "word": "forward",
+                                "start": 10.475,
+                                "end": 10.795,
+                                "confidence": 0.99987364,
+                                "punctuated_word": "forward"
+                            },
+                            {
+                                "word": "to",
+                                "start": 10.795,
+                                "end": 10.955,
+                                "confidence": 0.99974734,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "it",
+                                "start": 10.955,
+                                "end": 11.115001,
+                                "confidence": 0.9989579,
+                                "punctuated_word": "it"
+                            },
+                            {
+                                "word": "just",
+                                "start": 11.115001,
+                                "end": 11.3550005,
+                                "confidence": 0.998083,
+                                "punctuated_word": "just"
+                            },
+                            {
+                                "word": "being",
+                                "start": 11.3550005,
+                                "end": 11.8550005,
+                                "confidence": 0.99767584,
+                                "punctuated_word": "being"
+                            },
+                            {
+                                "word": "normal",
+                                "start": 11.995001,
+                                "end": 12.495001,
+                                "confidence": 0.9847256,
+                                "punctuated_word": "normal."
+                            },
+                            {
+                                "word": "and",
+                                "start": 12.715,
+                                "end": 13.115,
+                                "confidence": 0.9564264,
+                                "punctuated_word": "And,"
+                            },
+                            {
+                                "word": "i",
+                                "start": 13.915001,
+                                "end": 13.995001,
+                                "confidence": 0.99937063,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "think",
+                                "start": 13.995001,
+                                "end": 14.235001,
+                                "confidence": 0.9998958,
+                                "punctuated_word": "think"
+                            },
+                            {
+                                "word": "if",
+                                "start": 14.235001,
+                                "end": 14.395,
+                                "confidence": 0.99061173,
+                                "punctuated_word": "if"
+                            },
+                            {
+                                "word": "it",
+                                "start": 14.395,
+                                "end": 14.555,
+                                "confidence": 0.98838216,
+                                "punctuated_word": "it"
+                            },
+                            {
+                                "word": "signifies",
+                                "start": 14.555,
+                                "end": 15.055,
+                                "confidence": 0.99961734,
+                                "punctuated_word": "signifies"
+                            },
+                            {
+                                "word": "anything",
+                                "start": 15.115,
+                                "end": 15.615,
+                                "confidence": 0.9821633,
+                                "punctuated_word": "anything,"
+                            },
+                            {
+                                "word": "it",
+                                "start": 15.74,
+                                "end": 15.98,
+                                "confidence": 0.9970605,
+                                "punctuated_word": "it"
+                            },
+                            {
+                                "word": "is",
+                                "start": 15.98,
+                                "end": 16.38,
+                                "confidence": 0.927747,
+                                "punctuated_word": "is,"
+                            },
+                            {
+                                "word": "to",
+                                "start": 16.779999,
+                                "end": 17.02,
+                                "confidence": 0.9999021,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "honor",
+                                "start": 17.02,
+                                "end": 17.34,
+                                "confidence": 0.9998611,
+                                "punctuated_word": "honor"
+                            },
+                            {
+                                "word": "the",
+                                "start": 17.34,
+                                "end": 17.58,
+                                "confidence": 0.99992085,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "the",
+                                "start": 17.58,
+                                "end": 17.74,
+                                "confidence": 0.99497765,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "women",
+                                "start": 17.74,
+                                "end": 18.06,
+                                "confidence": 0.9528305,
+                                "punctuated_word": "women"
+                            },
+                            {
+                                "word": "who",
+                                "start": 18.06,
+                                "end": 18.22,
+                                "confidence": 0.9996184,
+                                "punctuated_word": "who"
+                            },
+                            {
+                                "word": "came",
+                                "start": 18.22,
+                                "end": 18.46,
+                                "confidence": 0.9999205,
+                                "punctuated_word": "came"
+                            },
+                            {
+                                "word": "before",
+                                "start": 18.46,
+                                "end": 18.7,
+                                "confidence": 0.99978846,
+                                "punctuated_word": "before"
+                            },
+                            {
+                                "word": "us",
+                                "start": 18.7,
+                                "end": 19.2,
+                                "confidence": 0.99933606,
+                                "punctuated_word": "us"
+                            },
+                            {
+                                "word": "who",
+                                "start": 19.42,
+                                "end": 19.82,
+                                "confidence": 0.85069174,
+                                "punctuated_word": "who,"
+                            },
+                            {
+                                "word": "were",
+                                "start": 20.22,
+                                "end": 20.46,
+                                "confidence": 0.9648375,
+                                "punctuated_word": "were"
+                            },
+                            {
+                                "word": "skilled",
+                                "start": 20.46,
+                                "end": 20.86,
+                                "confidence": 0.99901366,
+                                "punctuated_word": "skilled"
+                            },
+                            {
+                                "word": "and",
+                                "start": 20.86,
+                                "end": 21.18,
+                                "confidence": 0.99543214,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "qualified",
+                                "start": 21.18,
+                                "end": 21.68,
+                                "confidence": 0.98749435,
+                                "punctuated_word": "qualified,"
+                            },
+                            {
+                                "word": "and",
+                                "start": 22.3,
+                                "end": 22.619999,
+                                "confidence": 0.9990652,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "didn't",
+                                "start": 22.619999,
+                                "end": 22.86,
+                                "confidence": 0.95901704,
+                                "punctuated_word": "didn't"
+                            },
+                            {
+                                "word": "get",
+                                "start": 22.86,
+                                "end": 23.18,
+                                "confidence": 0.999718,
+                                "punctuated_word": "get"
+                            },
+                            {
+                                "word": "the",
+                                "start": 23.18,
+                                "end": 23.42,
+                                "confidence": 0.70607716,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "the",
+                                "start": 23.42,
+                                "end": 23.66,
+                                "confidence": 0.5818285,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "same",
+                                "start": 23.66,
+                                "end": 23.98,
+                                "confidence": 0.99917006,
+                                "punctuated_word": "same"
+                            },
+                            {
+                                "word": "opportunities",
+                                "start": 23.98,
+                                "end": 24.46,
+                                "confidence": 0.9996081,
+                                "punctuated_word": "opportunities"
+                            },
+                            {
+                                "word": "that",
+                                "start": 24.46,
+                                "end": 24.619999,
+                                "confidence": 0.99932194,
+                                "punctuated_word": "that"
+                            },
+                            {
+                                "word": "we",
+                                "start": 24.619999,
+                                "end": 24.779999,
+                                "confidence": 0.9998354,
+                                "punctuated_word": "we"
+                            },
+                            {
+                                "word": "have",
+                                "start": 24.779999,
+                                "end": 25.02,
+                                "confidence": 0.9996754,
+                                "punctuated_word": "have"
+                            },
+                            {
+                                "word": "today",
+                                "start": 25.02,
+                                "end": 25.52,
+                                "confidence": 0.9750156,
+                                "punctuated_word": "today."
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nYeah. As as much as, it's worth celebrating, the first, spacewalk, with an all female team, I think many of us are looking forward to it just being normal. And, I think if it signifies anything, it is, to honor the the women who came before us who, were skilled and qualified, and didn't get the the same opportunities that we have today.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Yeah.",
+                                            "start": 0.08,
+                                            "end": 0.32
+                                        },
+                                        {
+                                            "text": "As as much as, it's worth celebrating, the first, spacewalk, with an all female team, I think many of us are looking forward to it just being normal.",
+                                            "start": 0.32,
+                                            "end": 12.495001
+                                        },
+                                        {
+                                            "text": "And, I think if it signifies anything, it is, to honor the the women who came before us who, were skilled and qualified, and didn't get the the same opportunities that we have today.",
+                                            "start": 12.715,
+                                            "end": 25.52
+                                        }
+                                    ],
+                                    "start": 0.08,
+                                    "end": 25.52,
+                                    "num_words": 63
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
